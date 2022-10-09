@@ -67,8 +67,8 @@
     "webpack-dev-server": "^4.11.1"
   },
   "dependencies": {
-    "antd": "^3.19.2",
-    "antd-mobile": "^2.2.13",
+    "antd": "^3.26.19",
+    "antd-mobile": "^2.3.4",
     "fastclick": "^1.0.6",
     "moment": "^2.24.0",
     "node-notifier": "^10.0.1",

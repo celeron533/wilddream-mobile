@@ -2042,7 +2042,7 @@ ansi-styles@^5.0.0:
   resolved "https://mirrors.huaweicloud.com/repository/npm/ansi-styles/-/ansi-styles-5.2.0.tgz#07449690ad45777d1924ac2abb2fc8895dba836b"
   integrity sha512-Cxwpt2SfTzTtXcfOlzGEee8O+c+MmUgGrNiBcXnuWxuFJHe6a5Hz7qwhwe5OgaSYI0IJvkLqWX1ASG+cJOkEiA==
 
-antd-mobile@^2.2.13:
+antd-mobile@^2.3.4:
   version "2.3.4"
   resolved "https://mirrors.huaweicloud.com/repository/npm/antd-mobile/-/antd-mobile-2.3.4.tgz#8f584707b30343d102f3ca10fdaf677e2a5d1cc8"
   integrity sha512-Uw02Ghc+DPzaQceJQ+5p1ZnQFafvILA0chTTen7m7c89Uzbw6Ny3zsVZDE1gfteNEIsL4JpPe0I/+aI3Q/nPAA==
@@ -2071,7 +2071,7 @@ antd-mobile@^2.2.13:
     rmc-tabs "~1.2.0"
     rmc-tooltip "~1.0.0"
 
-antd@^3.19.2:
+antd@^3.26.19:
   version "3.26.20"
   resolved "https://mirrors.huaweicloud.com/repository/npm/antd/-/antd-3.26.20.tgz#f3f570efaaa5950a144942f21eb2aaaa088e9407"
   integrity sha512-VIous4ofZfxFtd9K1h9MpRX2sDDpj3QcOFi3YgIc9B/uyDli/GlLb8SWKfQfJaMkaxwatIv503dag2Tog+hiEg==
